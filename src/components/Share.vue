@@ -6,7 +6,7 @@
 </template>
 <script>
 import Header from './Header'
-import Video from './Video'
+import Video from './VideoPlayer'
 export default {
   name: 'Share',
   components: {

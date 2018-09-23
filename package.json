@@ -17,6 +17,7 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
+    "vue-youtube": "^1.2.5",
     "youtube-iframe": "^1.0.3"
   },
   "devDependencies": {
